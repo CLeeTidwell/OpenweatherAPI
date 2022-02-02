@@ -1,0 +1,35 @@
+.uvkey{
+    border-radius: 50% 50% 50% 50%;
+    background-color: ghostwhite;
+    text-align: center;
+}
+
+.search-column{
+    background-image: linear-gradient(to left, #07d7f3, #d6e4f5);
+}
+
+.list-group-item{
+    line-height: 0.5;
+    border: none;
+}
+
+.card-body{
+    flex:auto
+}
+
+span.severe{
+    padding: 3px;
+    background-color: red;
+    color:white;
+}
+
+span.moderate{
+    padding: 3px;
+    background-color: yellow;
+}
+
+span.favorable{
+    padding: 3px;
+    background-color: green;
+    color:white;
+}
