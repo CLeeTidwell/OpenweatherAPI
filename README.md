@@ -44,7 +44,7 @@ This project is created with:
 * Moment.js
 
 ## Screenshot
-(./assets/images/deployedimage.jpg)
-(./assets/images/workingapp.gif)
+![screenshot](./assets/images/deployedimage.jpg)
+![screenshot](./assets/images/workingapp.gif)
 
 ## Setup
