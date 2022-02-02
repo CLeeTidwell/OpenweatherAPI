@@ -48,3 +48,5 @@ This project is created with:
 ![screenshot](./assets/images/workingapp.gif)
 
 ## Setup
+
+Please visit https://github.com/CLeeTidwell/OpenweatherAPI to see the repo in Github
