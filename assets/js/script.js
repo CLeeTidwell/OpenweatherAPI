@@ -166,6 +166,14 @@ var display5Day = function(weather){
 
        /* Appending Humidity emelent to forecast card */
        forecastEl.appendChild(forecastHumEl);
+            
+       /* Creating temperature span */
+       var forecastwindSpeedEl=document.createElement("span");
+        forecastwindSpeedEl.classList = "card-body text-center";
+        forecastwindSpeedEl.textContent = dailyForecast.wind.speed + " MPH";
+    
+       /* Appending wind speed emelent to forecast card */
+       forecastEl.appendChild(forecastwindSpeedEl);     
 
        /* Appending forecast element to five day container */
         forecastContainerEl.appendChild(forecastEl);
