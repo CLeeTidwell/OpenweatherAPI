@@ -49,6 +49,5 @@ This project is created with:
 
 ## Setup
 
-Please visit https://github.com/CLeeTidwell/OpenweatherAPI to see the repo in Github
- – – – – -
+Please visit https://github.com/CLeeTidwell/OpenweatherAPI to see the repo in Github<br />
 Please visit https://cleetidwell.github.io/OpenweatherAPI/ to see deployed code through Github Pages.
