@@ -45,7 +45,7 @@ This project is created with:
 
 ## Deployed Application Images
 
-![Screenshot](deployedimage.jpg)
-![Gif] (workingapp.gif)
+![Screenshot](./assets/images/deployedimage.jpg)
+![Gif] (./assets/images/workingapp.gif)
 
 ## Setup
