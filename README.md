@@ -45,6 +45,6 @@ This project is created with:
 
 ## Screenshot
 ![screenshot](./assets/images/deployedimage.jpg)
-![screenshot](./assets/images/workingapp.gif)
+
 
 ## Setup
