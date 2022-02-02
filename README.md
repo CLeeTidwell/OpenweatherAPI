@@ -4,7 +4,7 @@
 ## Table of contents
 * [General info](#general-info)
 * [Technologies](#technologies)
-* [Deployed Application Images](#deployed-application-images)
+* [Screenshot](#Screenshot)
 * [Setup](#setup)
 
 ## General info
@@ -43,9 +43,8 @@ This project is created with:
 * Jquery
 * Moment.js
 
-## Deployed Application Images
-
-![Screenshot](./assets/images/deployedimage.jpg)
-![Gif] (./assets/images/workingapp.gif)
+## Screenshot
+(./assets/images/deployedimage.jpg)
+(./assets/images/workingapp.gif)
 
 ## Setup
