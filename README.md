@@ -6,6 +6,7 @@
 * [Technologies](#technologies)
 * [Screenshot](#Screenshot)
 * [Setup](#setup)
+* [License](#License)
 
 ## General info
 
